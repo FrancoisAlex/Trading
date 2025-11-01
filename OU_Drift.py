@@ -21,4 +21,3 @@ class OU_Drift_case:
         M[2] = [(2 * self.mu_rod - self.sigma**2)]
         return M
         
-        
